@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.juliapacula.typescriptbarrel.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.juliapacula.typescriptbarrel.MyBundle
 
 class MyProjectService(project: Project) {
 
